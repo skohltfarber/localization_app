@@ -1,17 +1,6 @@
 # localization_app
 
-A new Flutter project.
+We are leveraging the localization so we can translate into other languages. We are working with Arabic, German, Greek, English, Spanish, French, Italian, and Slovak. We had an API that helped translate the phrase. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# localization_app
+Here is a list of languages:
+https://saimana.com/list-of-country-locale-code/
